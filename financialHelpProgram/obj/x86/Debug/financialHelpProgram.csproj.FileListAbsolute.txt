@@ -1,0 +1,10 @@
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\bin\Debug\financialHelpProgram.exe.config
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\bin\Debug\financialHelpDataBase.sdf
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\bin\Debug\financialHelpProgram.exe
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\bin\Debug\financialHelpProgram.pdb
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\obj\x86\Debug\financialHelpProgram.Form1.resources
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\obj\x86\Debug\financialHelpProgram.Properties.Resources.resources
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\obj\x86\Debug\financialHelpProgram.csproj.GenerateResource.Cache
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\obj\x86\Debug\financialHelpProgram.exe
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\obj\x86\Debug\financialHelpProgram.pdb
+C:\Users\Utilizator\documents\visual studio 2010\Projects\financialHelpProgram\financialHelpProgram\obj\x86\Debug\financialHelpProgram.csprojResolveAssemblyReference.cache
